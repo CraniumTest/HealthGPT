@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pydantic
+sqlite3
+transformers==4.21.1
